@@ -188,7 +188,11 @@ def chat_get(text: str):
 
 ## 📊 Results
 - **Console Testing**: Interactive responses in French with high intent accuracy.
-- **FastAPI Testing**: API tested via Postman, visualized in ![Postman Test](postman_test.png).
+- **FastAPI Testing**:
+
+  API tested via Postman, visualized in:
+
+  ![Postman Test](postman_test.png).
 - **Model Performance**: Trained model achieves reliable intent classification for both English and French queries.
 
 ---
