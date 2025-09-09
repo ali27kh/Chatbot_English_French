@@ -203,8 +203,8 @@ pip install tensorflow nltk fastapi uvicorn pydantic
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bilingual-chatbot.git
-   cd bilingual-chatbot
+   git clone https://github.com/ali27kh/Chatbot_English_French.git
+   cd Chatbot_English_French
    ```
 2. Create and activate virtual environment:
    ```bash
