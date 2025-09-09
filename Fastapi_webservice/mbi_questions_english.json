@@ -1,0 +1,214 @@
+{
+    "intents": [
+        {
+            "tag": "MBI Definition",
+            "patterns": [
+                "What is mbi",
+                "What is the mbi network",
+                "What is mbi network"
+            ],
+            "responses": [
+                "The MBI network is a specialized development agency based in Patti, Italy. It is present in 6 countries (United Kingdom, Italy, France, Greece, Romania, and Morocco) and offers a wide range of services. Its areas of expertise include digital marketing, web design, SEO optimization, as well as web and mobile development."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI Activities",
+            "patterns": [
+                "What are the activities of the MBI network company",
+                "What are the operations of the mbi network company",
+                "What activities are performed by the mbi network company",
+                "What are the activities of the company",
+                "What activities are carried out by the mbi network company",
+                "What are the activities of the mbi network company"
+            ],
+            "responses": [
+                "We offer comprehensive web design services: blogs, forums, online stores, news portals, multimedia galleries, as well as search engine optimization (SEO) services. We are committed to making your content easily accessible and intuitive for visitors."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Added Value by MBI",
+            "patterns": [
+                "What added value does the MBI network provide to clients",
+                "Does the mbi network add value to clients",
+                "What additional benefits does the mbi network offer to clients",
+                "What is the added value for clients",
+                "Does the MBI network bring added value to clients"
+            ],
+            "responses": [
+                "The MBI network provides digital marketing and SEO solutions for your website. Your site will benefit from a modern and responsive design, suitable for all screens. We also offer e-commerce solutions to simplify processes, automate workflow, and integrate payments."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI IT Tools",
+            "patterns": [
+                "What technologies and tools are used in the MBI network",
+                "What are the technologies used in the MBI network"
+            ],
+            "responses": [
+                "We use a wide range of technologies, including Python, Angular, WordPress, and XD/PS, to ensure innovative and high-quality solutions."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "SEO",
+            "patterns": [
+                "What is SEO and why is it important for businesses",
+                "What is the importance of SEO"
+            ],
+            "responses": [
+                "SEO stands for Search Engine Optimization. It is a set of practices to improve visibility and ranking of sites in search results. A good SEO strategy is essential for attracting quality organic traffic."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI Web Design",
+            "patterns": [
+                "What is web design",
+                "Why do we need web design"
+            ],
+            "responses": [
+                "Web design is the process of creating the appearance and layout of a site. It differs from web development, which focuses on coding and functionality."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI Digital Marketing",
+            "patterns": [
+                "What is digital marketing",
+                "What is digital marketing"
+            ],
+            "responses": [
+                "Digital marketing uses online channels (social media, SEO, email, etc.) to promote products and services. It is essential for reaching audiences effectively, both online and offline."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Digital Solution",
+            "patterns": [
+                "What is a digital solution",
+                "What is a digital solution"
+            ],
+            "responses": [
+                "Digital solutions include applications, gateways, sensors, and more. They improve the customer experience while optimizing costs and processes."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI CRM",
+            "patterns": [
+                "What is customer relationship management",
+                "What is customer relationship management"
+            ],
+            "responses": [
+                "Customer Relationship Management (CRM) helps manage interactions between a business and its customers, aiming to strengthen relationships and improve retention and profitability."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI E-commerce",
+            "patterns": [
+                "What is an e-commerce site and how to create one",
+                "How to create an e-commerce site"
+            ],
+            "responses": [
+                "E-commerce sites allow consumers and businesses to buy and sell online. These platforms are characterized by transactions carried out exclusively via the Internet."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI PPC",
+            "patterns": [
+                "What is pay-per-click",
+                "What is pay per click"
+            ],
+            "responses": [
+                "Pay-Per-Click (PPC) is an online marketing method that attracts traffic and encourages conversions through search engines. When well managed, PPC can attract many new customers."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI WordPress",
+            "patterns": [
+                "What is WordPress",
+                "how to create a WordPress site"
+            ],
+            "responses": [
+                "WordPress is a CMS that allows creating and hosting websites. With its plugin and template architecture, it adapts to the needs of blogs, portfolios, or online stores."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI SMM",
+            "patterns": [
+                "What is smm",
+                "What is social media marketing"
+            ],
+            "responses": [
+                "Social Media Marketing (SMM) uses social platforms to build a brand, increase sales, and attract visitors. SMM includes analytics to measure and improve performance."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "MBI Products",
+            "patterns": [
+                "What products does mbi offer",
+                "what products does mbi provide"
+            ],
+            "responses": [
+                "The list of products offered by MBI: \n https://wealthbank.finance/ \n https://1click2gobank.com/ \n https://generalmb.fr/ \n https://mk-audit.consulting/"
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Greeting",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hey",
+                "Good morning",
+                "Good afternoon",
+                "Good evening"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! What can I help you with?",
+                "Hello! Let me know if you have any questions."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Farewell",
+            "patterns": [
+                "Goodbye",
+                "Bye",
+                "See you later",
+                "Talk to you soon",
+                "Have a good day"
+            ],
+            "responses": [
+                "Goodbye! Feel free to reach out if you have more questions.",
+                "Bye! Take care and have a great day!",
+                "See you next time!"
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Thank You",
+            "patterns": [
+                "Thank you",
+                "Thanks",
+                "I appreciate it",
+                "Thanks a lot"
+            ],
+            "responses": [
+                "You're very welcome!",
+                "Glad I could help!",
+                "Anytime! Feel free to ask if you have more questions."
+            ],
+            "context": [""]
+        }
+    ]
+}

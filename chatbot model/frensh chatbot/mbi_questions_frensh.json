@@ -1,0 +1,214 @@
+{
+    "intents": [
+        {
+            "tag": "Définition de MBI",
+            "patterns": [
+                "Qu'est-ce que MBI",
+                "Qu'est-ce que le réseau MBI",
+                "Qu'est-ce que le réseau MBI"
+            ],
+            "responses": [
+                "Le réseau MBI est une agence de développement spécialisée basée à Patti, en Italie. Elle est présente dans 6 pays (Royaume-Uni, Italie, France, Grèce, Roumanie et Maroc) et propose une large gamme de services. Ses domaines d'expertise incluent le marketing digital, la conception de sites web, l'optimisation SEO ainsi que le développement web et mobile."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Activités de MBI",
+            "patterns": [
+                "Quelles sont les activités de l'entreprise MBI",
+                "Quelles sont les opérations de l'entreprise MBI",
+                "Quelles activités sont réalisées par l'entreprise MBI",
+                "Quelles sont les activités de l'entreprise",
+                "Quelles activités sont effectuées par l'entreprise MBI",
+                "Quelles sont les activités de l'entreprise MBI"
+            ],
+            "responses": [
+                "Nous offrons des services de conception web complets : blogs, forums, boutiques en ligne, portails d'actualités, galeries multimédias, ainsi que des services d'optimisation pour les moteurs de recherche (SEO). Nous nous engageons à rendre votre contenu facilement accessible et intuitif pour les visiteurs."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Valeur ajoutée par MBI",
+            "patterns": [
+                "Quelle valeur ajoutée le réseau MBI apporte-t-il aux clients",
+                "Le réseau MBI apporte-t-il une valeur ajoutée aux clients",
+                "Quels avantages supplémentaires le réseau MBI offre-t-il aux clients",
+                "Quelle est la valeur ajoutée pour les clients",
+                "Le réseau MBI apporte-t-il une valeur ajoutée aux clients"
+            ],
+            "responses": [
+                "Le réseau MBI propose des solutions de marketing digital et de SEO pour votre site web. Votre site bénéficiera d'un design moderne et réactif, adapté à tous les écrans. Nous proposons également des solutions e-commerce pour simplifier les processus, automatiser les flux de travail et intégrer les paiements."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Outils IT de MBI",
+            "patterns": [
+                "Quelles technologies et outils sont utilisés dans le réseau MBI",
+                "Quelles sont les technologies utilisées dans le réseau MBI"
+            ],
+            "responses": [
+                "Nous utilisons une large gamme de technologies, notamment Python, Angular, WordPress et XD/PS, pour garantir des solutions innovantes et de haute qualité."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "SEO",
+            "patterns": [
+                "Qu'est-ce que le SEO et pourquoi est-il important pour les entreprises",
+                "Quelle est l'importance du SEO"
+            ],
+            "responses": [
+                "Le SEO signifie Search Engine Optimization, ou optimisation pour les moteurs de recherche. Il s'agit d'un ensemble de pratiques visant à améliorer la visibilité et le classement des sites dans les résultats de recherche. Une bonne stratégie SEO est essentielle pour attirer un trafic organique de qualité."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Conception Web de MBI",
+            "patterns": [
+                "Qu'est-ce que la conception web",
+                "Pourquoi avons-nous besoin de conception web"
+            ],
+            "responses": [
+                "La conception web est le processus de création de l'apparence et de la mise en page d'un site. Elle diffère du développement web, qui se concentre sur le codage et les fonctionnalités."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Marketing Digital de MBI",
+            "patterns": [
+                "Qu'est-ce que le marketing digital",
+                "Qu'est-ce que le marketing digital"
+            ],
+            "responses": [
+                "Le marketing digital utilise des canaux en ligne (réseaux sociaux, SEO, e-mail, etc.) pour promouvoir des produits et des services. Il est essentiel pour atteindre les audiences de manière efficace, tant en ligne qu'hors ligne."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Solution Numérique",
+            "patterns": [
+                "Qu'est-ce qu'une solution numérique",
+                "Qu'est-ce qu'une solution numérique"
+            ],
+            "responses": [
+                "Les solutions numériques incluent des applications, passerelles, capteurs, et bien plus. Elles améliorent l'expérience client tout en optimisant les coûts et les processus."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "CRM de MBI",
+            "patterns": [
+                "Qu'est-ce que la gestion de la relation client",
+                "Qu'est-ce que la gestion de la relation client"
+            ],
+            "responses": [
+                "La gestion de la relation client (CRM) aide à gérer les interactions entre une entreprise et ses clients, visant à renforcer les relations et à améliorer la rétention et la rentabilité."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "E-commerce de MBI",
+            "patterns": [
+                "Qu'est-ce qu'un site e-commerce et comment en créer un",
+                "Comment créer un site e-commerce"
+            ],
+            "responses": [
+                "Les sites e-commerce permettent aux consommateurs et aux entreprises d'acheter et de vendre en ligne. Ces plateformes se caractérisent par des transactions réalisées exclusivement via Internet."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "PPC de MBI",
+            "patterns": [
+                "Qu'est-ce que le pay-per-click",
+                "Qu'est-ce que le pay per click"
+            ],
+            "responses": [
+                "Le Pay-Per-Click (PPC) est une méthode de marketing en ligne qui attire du trafic et encourage les conversions par le biais des moteurs de recherche. Bien géré, le PPC peut attirer de nombreux nouveaux clients."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "WordPress de MBI",
+            "patterns": [
+                "Qu'est-ce que WordPress",
+                "Comment créer un site WordPress"
+            ],
+            "responses": [
+                "WordPress est un CMS qui permet de créer et d'héberger des sites web. Avec son architecture de plugins et de modèles, il s'adapte aux besoins des blogs, portfolios ou boutiques en ligne."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "SMM de MBI",
+            "patterns": [
+                "Qu'est-ce que le SMM",
+                "Qu'est-ce que le marketing sur les réseaux sociaux"
+            ],
+            "responses": [
+                "Le marketing sur les réseaux sociaux (SMM) utilise des plateformes sociales pour construire une marque, augmenter les ventes et attirer des visiteurs. Le SMM inclut des analyses pour mesurer et améliorer la performance."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Produits de MBI",
+            "patterns": [
+                "Quels produits MBI offre-t-il",
+                "Quels produits MBI propose-t-il"
+            ],
+            "responses": [
+                "La liste des produits proposés par MBI : \n https://wealthbank.finance/ \n https://1click2gobank.com/ \n https://generalmb.fr/ \n https://mk-audit.consulting/"
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Salutation",
+            "patterns": [
+                "Bonjour",
+                "Salut",
+                "Hey",
+                "Bon matin",
+                "Bon après-midi",
+                "Bonsoir"
+            ],
+            "responses": [
+                "Bonjour ! Comment puis-je vous aider aujourd'hui ?",
+                "Salut ! Que puis-je faire pour vous ?",
+                "Bonjour ! N'hésitez pas à poser vos questions."
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Au revoir",
+            "patterns": [
+                "Au revoir",
+                "Bye",
+                "À plus tard",
+                "À bientôt",
+                "Bonne journée"
+            ],
+            "responses": [
+                "Au revoir ! N'hésitez pas à revenir si vous avez d'autres questions.",
+                "Bye ! Prenez soin de vous et passez une bonne journée !",
+                "À la prochaine !"
+            ],
+            "context": [""]
+        },
+        {
+            "tag": "Merci",
+            "patterns": [
+                "Merci",
+                "Merci beaucoup",
+                "Je vous remercie",
+                "Merci infiniment"
+            ],
+            "responses": [
+                "Je vous en prie !",
+                "Ravi d'avoir pu vous aider !",
+                "Avec plaisir ! N'hésitez pas si vous avez d'autres questions."
+            ],
+            "context": [""]
+        }
+    ]
+}
